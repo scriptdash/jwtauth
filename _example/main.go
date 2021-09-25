@@ -63,7 +63,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/jwtauth/v5"
+	"github.com/scriptdash/jwtauth/v5"
 )
 
 var tokenAuth *jwtauth.JWTAuth
